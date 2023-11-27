@@ -1,8 +1,0 @@
-tensorflow==2.9.3
-fastapi
-uvicorn
-python-multipart
-pillow
-tenorflow-serving-api==2.9.3
-matplotlib
-numpy
